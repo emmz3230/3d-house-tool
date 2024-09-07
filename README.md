@@ -6,11 +6,7 @@
 ![javascript][js]
 ![react-version][react_version]
 
-## Demo
 
-[Demo][demo]
-
-[![react-planner][preview_image]][demo]
 
 ## Usage
 
@@ -76,38 +72,12 @@ ReactDOM.render(
 - [Create a Catalog](docs/HOW_TO_CREATE_A_CATALOG.md)
 - [Create a Catalog's Element](docs/HOW_TO_CREATE_AN_ELEMENT.md)
 
-## Authors
 
-- [chrvadala](https://github.com/chrvadala)
-- [danilosalvati](https://github.com/danilosalvati)
-- [enricomarino](https://github.com/enricomarino)
-- [federicospini](https://github.com/federicospini)
-- [alessiocarrafa](https://github.com/alessiocarrafa)
-- [stefanoperrone](https://github.com/stefanoperrone)
-
-Developed @ [CVDLAB][cvdlab]
 
 ## Contributing
 
 Your contributions (issues and pull request) are very appreciated!
 
-## Contributors
 
- - [JikkuJose](https://github.com/JikkuJose)
- - [Yeri-Kim](https://github.com/Yeri-Kim)
- - [lucacastoro](https://github.com/lucacastoro)
- - [cbosse-skwirrel](https://github.com/cbosse-skwirrel)
- - [JaccoGoris](https://github.com/JaccoGoris)
 
-## License
 
-MIT
-
-[react]: https://facebook.github.io/react/
-[npm_label]: https://img.shields.io/npm/v/react-planner.svg?maxAge=2592000?style=plastic
-[npm_link]: https://www.npmjs.com/package/react-planner
-[js]: https://img.shields.io/badge/javascript-ES6-fbde34.svg
-[react_version]: https://img.shields.io/badge/react%20version-16.0.0%20or%20later-61dafb.svg
-[preview_image]: https://raw.githubusercontent.com/cvdlab/react-planner/master/preview.png
-[demo]: https://cvdlab.github.io/react-planner
-[cvdlab]: http://cvdlab.org/
